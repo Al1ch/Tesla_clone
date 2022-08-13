@@ -20,7 +20,7 @@ const Container = styled.div`
     border-radius : 5px;
     justify-content : center;
     white-space: nowrap;
-
+ 
     a {
         text-decoration : none;
     }

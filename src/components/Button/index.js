@@ -14,6 +14,7 @@ const StyledButton = styled.div `
     opacity : ${(props)=> props.opacity};
     cursor : pointer;
     font-size : 15px;
+    margin-right : 20px;
 `
 
 
